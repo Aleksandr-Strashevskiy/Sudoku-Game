@@ -1,4 +1,4 @@
-AccessModifierOffset: 0
+AccessModifierOffset: -2
 AlignAfterOpenBracket: Align
 AlignArrayOfStructures: Right
 AlignConsecutiveAssignments:
@@ -61,6 +61,7 @@ BreakInheritanceList: AfterComma
 BreakStringLiterals: true
 ColumnLimit: 120
 CompactNamespaces: true
+ConstructorInitializerIndentWidth: 4
 ContinuationIndentWidth: 4
 EmptyLineAfterAccessModifier: Never
 EmptyLineBeforeAccessModifier: LogicalBlock
